@@ -1,5 +1,5 @@
 # docker lantern image
 
-Version : 2.2.1
+Version : 2.2.3
 
-update 2016-05-10
+update 2016-05-13
