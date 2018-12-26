@@ -1,0 +1,9 @@
+version: "3"
+services:
+  'lantern':
+    build: .
+    restart: always
+    image: lantern
+    container_name: lantern
+    ports:
+      - "8787:8787"
