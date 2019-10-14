@@ -7,3 +7,4 @@ services:
     container_name: lantern
     ports:
       - "8787:8787"
+      - "16823:16823"
